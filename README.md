@@ -9,3 +9,6 @@ The Professional Machine Learning Engineer exam assesses your ability to:
 - Develop ML models
 - Automate & orchestrate ML pipelines
 - Monitor, optimize, and maintain ML solutions
+
+
+**This repository contains Resources that will help you prepare for the Exam.**
