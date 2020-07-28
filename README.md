@@ -17,6 +17,13 @@ The Professional Machine Learning Engineer exam assesses your ability to:
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-## The Main Parts Of The Exams: 
+## The Main Secations Of The Exams: 
+
+### Section 1: ML Problem Framing
+### Section 2: ML Solution Architecture
+### Section 3: Data Preparation and Processing
+### Section 4: ML Model Development
+### Section 5: ML Pipeline Automation & Orchestration
+### Section 6: ML Solution Monitoring, Optimization, and Maintenance
 
 
