@@ -15,6 +15,6 @@ The Professional Machine Learning Engineer exam assesses your ability to:
 
 **I will follow the same architect exam guide from Google 
 
-[https://cloud.google.com/certification/guides/machine-learning-engineer](Professional Machine Learning Engineer Certification Exam Guide)
+[Professional Machine Learning Engineer Certification Exam Guide](https://cloud.google.com/certification/guides/machine-learning-engineer)
 [Intro to Recurrent Networks (Character-wise RNN)](https://github.com/udacity/deep-learning/tree/master/intro-to-rnns)
 
