@@ -11,4 +11,9 @@ The Professional Machine Learning Engineer exam assesses your ability to:
 - Monitor, optimize, and maintain ML solutions
 
 
-**This repository contains Resources that will help you prepare for the Exam.**
+**This repository contains some Resources and Tips that will help you prepare for the Exam.** 
+
+*** I will follow the same architect exam guide from Google 
+
+[https://cloud.google.com/certification/guides/machine-learning-engineer] (Professional Machine Learning Engineer Certification Exam Guide)
+
