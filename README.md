@@ -47,34 +47,37 @@ The Professional Machine Learning Engineer exam assesses your ability to:
            Assessing ML solution readiness
            Assessing data readiness
            Aligning with Google AI principles and practices (e.g. different biases)
+  -----------------------------------------------------------------------------------------------------------------------         
 ### Section 2: ML Solution Architecture
 #### This Section aims to assess your knowledge and understanding of the folloowing topics : 
    
-   ###### 1-Translate business challenge into ML use case. Considerations include:
+   ###### 1- Design reliable, scalable, highly available ML solutions. Considerations include
 
-           Defining business problems
-           Identifying nonML solutions
-           Defining output use
-           Managing incorrect results
-           Identifying data sources
-  ######  2- Define ML problem. Considerations include:
+           Optimizing data use and storage
+           Data connections
+           Automation of data preparation and model training/deployment
+           SDLC best practices
+  ######  2- Choose appropriate Google Cloud software components. Considerations include:
 
-           Defining problem type (classification, regression, clustering, etc.)
-           Defining outcome of model predictions
-           Defining the input (features) and predicted output format
+           A variety of component types - data collection; data management
+           Exploration/analysis
+           Feature engineering
+           Logging/management
+           Automation
+           Monitoring
+           Serving
        
-  ######  3- Define business success criteria. Considerations include:
+  ######  3-Choose appropriate Google Cloud hardware components. Considerations include:
 
-           Success metrics
-           Key results
-           Determination of when a model is deemed unsuccessful
+           Selection of quotas and compute/accelerators with components
            
- ######   4- Identify risks to feasibility and implementation of ML solution. Considerations include:
+ ######   4- Design architecture that complies with regulatory and security concerns Considerations include:
 
-           Assessing and communicating business impact
-           Assessing ML solution readiness
-           Assessing data readiness
-           Aligning with Google AI principles and practices (e.g. different biases)
+
+
+           Building secure ML systems
+           Privacy implications of data usage
+           Identifying potential regulatory issues
 
 
 ### Section 3: Data Preparation and Processing
