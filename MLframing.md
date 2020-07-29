@@ -1,5 +1,5 @@
 
-#### This Sections aims to assess your knowledge and understanding of the folloowing topics : 
+#### This Section aims to assess your knowledge and understanding of the folloowing topics : 
    
    ###### 1-Translate business challenge into ML use case. Considerations include:
 
