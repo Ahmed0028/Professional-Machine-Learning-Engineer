@@ -143,8 +143,54 @@ The Professional Machine Learning Engineer exam assesses your ability to:
         Scalable model analysis (e.g. Cloud Storage output files, Dataflow, BigQuery, Google Data Studio)
 --------------------------------------------------------------------------------------------------------------------------------
 
+### Section 5: ML Pipeline Automation & Orchestration:
+#### This Section aims to assess your knowledge and understanding of the folloowing topics :
 
-### Section 5: ML Pipeline Automation & Orchestration
-### Section 6: ML Solution Monitoring, Optimization, and Maintenance
+###### 1 Design pipeline. Considerations include:
 
+        Identification of components, parameters, triggers, and compute needs
+        Orchestration framework
+        Hybrid or multi-cloud strategies
+###### 2 Implement training pipeline. Considerations include:
+
+       Decoupling components with Cloud Build
+       Constructing and testing of parameterized pipeline definition in SDK
+       Tuning compute performance
+       Performing data validation
+       Storing data and generated artifacts
+###### 3 Implement serving pipeline. Considerations include:
+
+       Model binary options
+       Google Cloud serving options
+       Testing for target performance
+       Setup of trigger and pipeline schedule
+###### 4 Track and audit metadata. Considerations include:
+
+       Organization and tracking experiments and pipeline runs
+       Hooking into model and dataset versioning
+       Model/dataset lineage
+###### 5 Use CI/CD to test and deploy models. Considerations include:
+
+       Hooking modes into existing CI/CD deployment system
+       AB and Canary testing
+---------------------------------------------------------------------------------------------------------------------------
+
+### Section 6: ML Solution Monitoring, Optimization, and Maintenance:
+#### This Section aims to assess your knowledge and understanding of the folloowing topics :
+ 
+###### 1 Monitor ML solutions. Considerations include:
+
+       Performance and business quality of ML model predictions
+       Logging strategies
+       Establishing continuous evaluation metrics
+###### 2 Troubleshoot ML solutions. Considerations include:
+
+       Permission issues (IAM)
+       Common training and serving errors (TensorFlow)
+       ML system failure and biases
+###### 3 Tune performance of ML solutions for training & serving in production. Considerations include:
+
+       Optimization and simplification of input pipeline for training
+       Simplification techniques
+       Identification of appropriate retraining policy
 
