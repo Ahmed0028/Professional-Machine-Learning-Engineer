@@ -24,11 +24,11 @@ The Professional Machine Learning Engineer exam assesses your ability to:
    
    ###### 1-Translate business challenge into ML use case. Considerations include:
 
-           Defining business problems
-           Identifying nonML solutions
-           Defining output use
-           Managing incorrect results
-           Identifying data sources
+           -Defining business problems
+           -Identifying nonML solutions
+           -Defining output use
+           -Managing incorrect results
+           -Identifying data sources
   ######  2- Define ML problem. Considerations include:
 
            Defining problem type (classification, regression, clustering, etc.)
