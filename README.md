@@ -78,10 +78,72 @@ The Professional Machine Learning Engineer exam assesses your ability to:
            Building secure ML systems
            Privacy implications of data usage
            Identifying potential regulatory issues
-
-
+---------------------------------------------------------------------------------------------------------------------------------
 ### Section 3: Data Preparation and Processing
-### Section 4: ML Model Development
+#### This Section aims to assess your knowledge and understanding of the folloowing topics :
+
+   ###### 1-  Data ingestion. Considerations include:
+
+           Ingestion of various file types (e.g. Csv, json, img, parquet or databases, Hadoop/Spark)
+           Database migration
+           Streaming data (e.g. from IoT devices)
+  ######  2- Data exploration (EDA). Considerations include:
+
+          Visualization
+          Statistical fundamentals at scale
+          Evaluation of data quality and feasibility
+       
+  ######  3-Design data pipelines. Considerations include:
+
+           Batching and streaming data pipelines at scale
+           Data privacy and compliance
+           Monitoring/changing deployed pipelines
+           
+ ######   4- Build data pipelines. Considerations include:
+
+          Data validation
+          Handling missing data
+          Handling outliers
+          Managing large samples (TFRecords)
+          Transformations (TensorFlow Transform)
+          
+ ######  5- Feature engineering. Considerations include:
+  
+         Data leakage and augmentation
+         Encoding structured data types
+         Feature selection
+         Class imbalance
+         Feature crosses
+ ---------------------------------------------------------------------------------------------------------------------------
+ ### Section 4: ML Model Development:         
+ #### This Section aims to assess your knowledge and understanding of the folloowing topics :
+
+ ###### 1-  Build a model. Considerations include::
+ 
+           Choice of framework and model
+           Modeling techniques given interpretability requirements
+           Transfer learning
+           Model generalization
+           Overfitting
+###### 2 Train a model. Considerations include:
+
+          Productionizing
+          Training a model as a job in different environments
+          Tracking metrics during training
+          Retraining/redeployment evaluation
+###### 3 Test a model. Considerations include:
+
+         Unit tests for model training and serving
+         Model performance against baselines, simpler models, and across the time dimension
+         Model explainability on Cloud AI Platform
+###### 4 Scale model training and serving. Considerations include:
+
+        Distributed training
+        Hardware accelerators
+        Scalable model analysis (e.g. Cloud Storage output files, Dataflow, BigQuery, Google Data Studio)
+--------------------------------------------------------------------------------------------------------------------------------
+
+
 ### Section 5: ML Pipeline Automation & Orchestration
 ### Section 6: ML Solution Monitoring, Optimization, and Maintenance
 
